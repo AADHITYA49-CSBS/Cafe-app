@@ -21,7 +21,4 @@ Cafe-App is a modern café application designed for **smooth ordering, intuitive
 ✔ **Secure Login & Authentication**  
 ✔ **Optimized Database Queries for Performance**  
 
-## 📌 Installation  
-```bash
-git clone https://github.com/AADHITYA49-CSBS/Cafe-app-modified.git
-cd Cafe-app-modified
+
